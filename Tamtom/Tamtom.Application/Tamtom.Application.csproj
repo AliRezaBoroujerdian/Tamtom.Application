@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Version>2.0.2</Version>
+    <Authors>AliRezaBoroujerdian</Authors>
+    <Company>Tamtom</Company>
+    <Product>Tamtom.Application</Product>
+    <Description>initialize application base info such as static connection string and URI info</Description>
+    <Copyright>2020</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageIcon>Rectangle 1 copy 11.png</PackageIcon>
+    <PackageIconUrl />
+    <PackageProjectUrl>https://github.com/AliRezaBoroujerdian/Tamtom.Application</PackageProjectUrl>
+    <PackageTags>URI, ConnectionString, Tamtom, AliRezaBoroujerdian</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="E:\Tamtom\Design\logo\20190612\Rectangle 1 copy 11.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
